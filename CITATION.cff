@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+type: software
+title: "BenchPy: Benchmarking Multi-Agent Reinforcement Learning"
+authors:
+- family-names: Bettini
+  given-names: Matteo
+- family-names: Prorok
+  given-names: Amanda
+- family-names: Moens
+  given-names: Vincent
+url: "https://github.com/khulnasoft-lab/BenchPy"
+year: 2023
