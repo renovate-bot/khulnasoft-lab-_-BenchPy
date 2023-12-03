@@ -1,5 +1,3 @@
-
-
 import importlib
 
 _has_vmas = importlib.util.find_spec("vmas") is not None

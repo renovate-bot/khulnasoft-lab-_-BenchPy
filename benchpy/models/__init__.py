@@ -1,5 +1,3 @@
-
-
 from .common import Model, ModelConfig, SequenceModel, SequenceModelConfig
 from .gnn import Gnn, GnnConfig
 from .mlp import Mlp, MlpConfig

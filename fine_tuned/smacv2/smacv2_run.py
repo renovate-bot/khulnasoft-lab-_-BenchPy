@@ -1,5 +1,3 @@
-
-
 import hydra
 from benchpy.experiment import Experiment
 

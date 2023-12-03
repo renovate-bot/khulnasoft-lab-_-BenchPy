@@ -1,5 +1,3 @@
-
-
 import pathlib
 
 from abc import ABC, abstractmethod

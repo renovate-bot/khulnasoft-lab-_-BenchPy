@@ -1,5 +1,3 @@
-
-
 import pytest
 
 from benchpy.hydra_config import load_model_config_from_hydra

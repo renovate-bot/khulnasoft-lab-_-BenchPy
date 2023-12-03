@@ -1,5 +1,3 @@
-
-
 from benchpy.algorithms import MappoConfig, MasacConfig, QmixConfig
 from benchpy.benchmark import Benchmark
 from benchpy.environments import VmasTask

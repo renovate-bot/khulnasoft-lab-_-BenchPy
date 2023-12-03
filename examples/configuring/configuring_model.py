@@ -1,5 +1,3 @@
-
-
 import torch.nn
 
 from benchpy.algorithms import MappoConfig

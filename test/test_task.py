@@ -1,5 +1,3 @@
-
-
 import pytest
 
 from benchpy.environments import Task, task_config_registry

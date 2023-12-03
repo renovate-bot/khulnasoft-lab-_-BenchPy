@@ -1,5 +1,3 @@
-
-
 import pytest
 import torch_geometric.nn.conv
 

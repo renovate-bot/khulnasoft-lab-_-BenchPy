@@ -1,5 +1,3 @@
-
-
 from benchpy.algorithms import MappoConfig
 from benchpy.environments import VmasTask
 from benchpy.experiment import Experiment, ExperimentConfig

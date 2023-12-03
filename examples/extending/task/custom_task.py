@@ -1,5 +1,3 @@
-
-
 from typing import Callable, Dict, List, Optional
 
 from benchpy.environments.common import Task

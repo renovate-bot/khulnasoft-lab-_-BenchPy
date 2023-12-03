@@ -1,4 +1,3 @@
-
 import importlib
 
 from benchpy.algorithms.common import AlgorithmConfig

@@ -1,5 +1,3 @@
-
-
 from benchpy.algorithms.common import AlgorithmConfig
 from benchpy.environments import Task
 from benchpy.experiment import Experiment, ExperimentConfig

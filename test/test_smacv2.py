@@ -1,6 +1,3 @@
-
-
-
 import pytest
 
 from benchpy.algorithms import algorithm_config_registry, MappoConfig, QmixConfig

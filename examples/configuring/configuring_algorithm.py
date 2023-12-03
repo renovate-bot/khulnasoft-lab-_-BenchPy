@@ -1,5 +1,3 @@
-
-
 from benchpy.algorithms import MasacConfig
 from benchpy.environments import VmasTask
 from benchpy.experiment import Experiment, ExperimentConfig

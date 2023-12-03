@@ -1,5 +1,3 @@
-
-
 from typing import Iterator, Optional, Sequence, Set
 
 from benchpy.algorithms.common import AlgorithmConfig
